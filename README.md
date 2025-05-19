@@ -3,6 +3,7 @@ This repository contains our work for Trends Marketplace 2025 which is hosted ev
 Project Title: Real-Time Price Prediction at Scale with Snowflake and Superset
 
 Goal: Enable real-time ML predictions via SQL queries
+
 Link to Superset Dashboard: https://6cdef29e.us1a.app.preset.io/superset/dashboard/p/DQqGPzE95Rz/
 
 # Executive Summary
